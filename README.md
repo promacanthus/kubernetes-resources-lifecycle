@@ -1,0 +1,2 @@
+# kubernetes-resources-lifecycle
+kubernetes
